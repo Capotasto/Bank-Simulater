@@ -1,0 +1,10 @@
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BankSimulator\BankSimulator\obj\Debug\BankSimulator.Form1.resources
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BankSimulator\BankSimulator\obj\Debug\BankSimulator.Properties.Resources.resources
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BankSimulator\BankSimulator\obj\Debug\BankSimulator.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BankSimulator\BankSimulator\bin\Debug\Database1.mdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BankSimulator\BankSimulator\bin\Debug\BankSimulator.exe.config
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BankSimulator\BankSimulator\bin\Debug\BankSimulator.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BankSimulator\BankSimulator\bin\Debug\BankSimulator.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BankSimulator\BankSimulator\obj\Debug\BankSimulator.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BankSimulator\BankSimulator\obj\Debug\BankSimulator.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BankSimulator\BankSimulator\obj\Debug\BankSimulator.csprojResolveAssemblyReference.cache
